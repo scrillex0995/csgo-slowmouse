@@ -1,0 +1,26 @@
+﻿  gui.cpp
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(23,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.cpp(316,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.cpp(316,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.cpp(316,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.cpp(322,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.cpp(322,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.cpp(322,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.cpp(337,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.cpp(337,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  hacks.cpp
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(23,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\hacks.cpp(80,34): warning C4244: 'argument': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=uintptr_t
+          ]
+  main.cpp
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(23,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  2 of 1538 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  slow-mouse.vcxproj -> D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\Build\slow-mouse.exe

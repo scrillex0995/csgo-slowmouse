@@ -1,0 +1,433 @@
+﻿  gui.cpp
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.h(12,14): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.h(15,14): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.h(16,20): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.h(19,16): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.h(22,20): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.h(23,27): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.h(24,31): error C7525: inline variables require at least '/std:c++17'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\string_view(13): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,20): error C2039: 'string_view': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,32): error C2146: syntax error: missing ')' before identifier 'processName'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,32): error C3646: 'processName': unknown override specifier
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,43): error C2059: syntax error: ')'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,45): error C2143: syntax error: missing ';' before 'noexcept'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,45): error C2059: syntax error: 'noexcept'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(19,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,51): error C2039: 'string_view': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,63): error C2146: syntax error: missing ')' before identifier 'moduleName'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,63): error C3646: 'moduleName': unknown override specifier
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,73): error C2059: syntax error: ')'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,75): error C2143: syntax error: missing ';' before 'const'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,81): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,81): error C2059: syntax error: 'noexcept'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(49,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(8,24): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(9,24): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(10,14): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(12,14): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(13,15): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(14,14): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(16,14): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(17,15): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(18,15): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(20,14): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(21,14): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\globals.h(22,14): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.cpp(92,30): error C2440: '=': cannot convert from 'const char [9]' to 'LPCWSTR'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.cpp(92,30): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.cpp(97,11): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': cannot convert argument 2 from 'const char [9]' to 'LPCWSTR'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.cpp(99,3): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(4437,1): message : see declaration of 'CreateWindowExW'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.cpp(97,11): message : while trying to match the argument list '(int, const char [9], const char *, unsigned long, int, int, const int, const int, int, int, HINSTANCE, int)'
+  hacks.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\string_view(13): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,20): error C2039: 'string_view': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,32): error C2146: syntax error: missing ')' before identifier 'processName'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,32): error C3646: 'processName': unknown override specifier
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,43): error C2059: syntax error: ')'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,45): error C2143: syntax error: missing ';' before 'noexcept'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,45): error C2059: syntax error: 'noexcept'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(19,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,51): error C2039: 'string_view': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,63): error C2146: syntax error: missing ')' before identifier 'moduleName'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,63): error C3646: 'moduleName': unknown override specifier
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,73): error C2059: syntax error: ')'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,75): error C2143: syntax error: missing ';' before 'const'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,81): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,81): error C2059: syntax error: 'noexcept'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(49,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,48): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,30): error C2146: syntax error: missing ';' before identifier 'cs_gamerules_data'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(10,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(10,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(10,43): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(10,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(10,30): error C2146: syntax error: missing ';' before identifier 'm_ArmorValue'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(10,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(11,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(11,42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(11,42): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(11,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(11,30): error C2146: syntax error: missing ';' before identifier 'm_Collision'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(11,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(12,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(12,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(12,47): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(12,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(12,30): error C2146: syntax error: missing ';' before identifier 'm_CollisionGroup'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(12,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(13,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(13,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(13,38): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(13,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(13,30): error C2146: syntax error: missing ';' before identifier 'm_Local'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(13,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(14,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(14,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(14,41): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(14,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(14,30): error C2146: syntax error: missing ';' before identifier 'm_MoveType'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(14,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(15,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(15,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(15,54): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(15,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(15,30): error C2146: syntax error: missing ';' before identifier 'm_OriginalOwnerXuidHigh'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(15,56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(16,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(16,53): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(16,53): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(16,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(16,30): error C2146: syntax error: missing ';' before identifier 'm_OriginalOwnerXuidLow'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(16,55): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(17,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(17,62): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(17,62): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(17,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(17,30): error C2146: syntax error: missing ';' before identifier 'm_SurvivalGameRuleDecisionTypes'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(17,64): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(18,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(18,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(18,46): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(18,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(18,30): error C2146: syntax error: missing ';' before identifier 'm_SurvivalRules'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(18,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(19,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(19,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(19,46): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(19,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(19,30): error C2146: syntax error: missing ';' before identifier 'm_aimPunchAngle'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(19,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(20,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(20,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(20,49): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(20,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(20,30): error C2146: syntax error: missing ';' before identifier 'm_aimPunchAngleVel'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(20,51): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(21,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(21,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(21,46): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(21,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(21,30): error C2146: syntax error: missing ';' before identifier 'm_angEyeAnglesX'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(21,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(22,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(22,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(22,46): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(22,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(22,30): error C2146: syntax error: missing ';' before identifier 'm_angEyeAnglesY'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(22,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(23,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(23,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(23,45): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(23,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(23,30): error C2146: syntax error: missing ';' before identifier 'm_bBombDefused'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(23,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(24,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(24,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(24,45): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(24,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(24,30): error C2146: syntax error: missing ';' before identifier 'm_bBombPlanted'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(24,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(25,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(25,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(25,45): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(25,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(25,30): error C2146: syntax error: missing ';' before identifier 'm_bBombTicking'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(25,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(26,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(26,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(26,46): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(26,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(26,30): error C2146: syntax error: missing ';' before identifier 'm_bFreezePeriod'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(26,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(27,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(27,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(27,49): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(27,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(27,30): error C2146: syntax error: missing ';' before identifier 'm_bGunGameImmunity'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(27,51): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(28,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(28,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(28,44): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(28,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(28,30): error C2146: syntax error: missing ';' before identifier 'm_bHasDefuser'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(28,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(29,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(29,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(29,43): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(29,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(29,30): error C2146: syntax error: missing ';' before identifier 'm_bHasHelmet'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(29,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(30,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(30,42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(30,42): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(30,42): fatal  error C1003: error count exceeds 100; stopping compilation
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.h(12,14): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.h(15,14): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.h(16,20): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.h(19,16): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.h(22,20): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.h(23,27): error C7525: inline variables require at least '/std:c++17'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\gui.h(24,31): error C7525: inline variables require at least '/std:c++17'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\string_view(13): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,20): error C2039: 'string_view': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,32): error C2146: syntax error: missing ')' before identifier 'processName'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,32): error C3646: 'processName': unknown override specifier
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,43): error C2059: syntax error: ')'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,45): error C2143: syntax error: missing ';' before 'noexcept'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(18,45): error C2059: syntax error: 'noexcept'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(19,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,51): error C2039: 'string_view': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,63): error C2146: syntax error: missing ')' before identifier 'moduleName'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,63): error C3646: 'moduleName': unknown override specifier
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,73): error C2059: syntax error: ')'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,75): error C2143: syntax error: missing ';' before 'const'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,81): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(48,81): error C2059: syntax error: 'noexcept'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\memory.h(49,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,48): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,30): error C2146: syntax error: missing ';' before identifier 'cs_gamerules_data'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(10,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(10,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(10,43): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(10,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(10,30): error C2146: syntax error: missing ';' before identifier 'm_ArmorValue'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(10,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(11,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(11,42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(11,42): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(11,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(11,30): error C2146: syntax error: missing ';' before identifier 'm_Collision'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(11,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(12,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(12,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(12,47): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(12,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(12,30): error C2146: syntax error: missing ';' before identifier 'm_CollisionGroup'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(12,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(13,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(13,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(13,38): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(13,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(13,30): error C2146: syntax error: missing ';' before identifier 'm_Local'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(13,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(14,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(14,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(14,41): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(14,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(14,30): error C2146: syntax error: missing ';' before identifier 'm_MoveType'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(14,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(15,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(15,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(15,54): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(15,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(15,30): error C2146: syntax error: missing ';' before identifier 'm_OriginalOwnerXuidHigh'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(15,56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(16,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(16,53): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(16,53): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(16,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(16,30): error C2146: syntax error: missing ';' before identifier 'm_OriginalOwnerXuidLow'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(16,55): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(17,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(17,62): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(17,62): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(17,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(17,30): error C2146: syntax error: missing ';' before identifier 'm_SurvivalGameRuleDecisionTypes'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(17,64): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(18,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(18,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(18,46): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(18,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(18,30): error C2146: syntax error: missing ';' before identifier 'm_SurvivalRules'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(18,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(19,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(19,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(19,46): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(19,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(19,30): error C2146: syntax error: missing ';' before identifier 'm_aimPunchAngle'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(19,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(20,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(20,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(20,49): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(20,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(20,30): error C2146: syntax error: missing ';' before identifier 'm_aimPunchAngleVel'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(20,51): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(21,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(21,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(21,46): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(21,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(21,30): error C2146: syntax error: missing ';' before identifier 'm_angEyeAnglesX'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(21,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(22,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(22,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(22,46): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(22,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(22,30): error C2146: syntax error: missing ';' before identifier 'm_angEyeAnglesY'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(22,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(23,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(23,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(23,45): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(23,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(23,30): error C2146: syntax error: missing ';' before identifier 'm_bBombDefused'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(23,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(24,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(24,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(24,45): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(24,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(24,30): error C2146: syntax error: missing ';' before identifier 'm_bBombPlanted'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(24,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(25,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(25,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(25,45): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(25,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(25,30): error C2146: syntax error: missing ';' before identifier 'm_bBombTicking'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(25,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(26,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(26,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(26,46): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(26,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(26,30): error C2146: syntax error: missing ';' before identifier 'm_bFreezePeriod'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(26,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(27,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(27,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(27,49): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(27,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(27,30): error C2146: syntax error: missing ';' before identifier 'm_bGunGameImmunity'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(27,51): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(28,20): error C2039: 'ptrdiff_t': is not a member of 'std'
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals.h(349,1): message : see declaration of 'std'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(28,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(28,44): error C2737: 'hazedumper::netvars::ptrdiff_t': constexpr object must be initialized
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(28,20): error C2086: 'const int hazedumper::netvars::ptrdiff_t': redefinition
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(9,20): message : see declaration of 'hazedumper::netvars::ptrdiff_t'
+D:\Users\Hlib\Documents\Projects\VisualStudio\slow-mouse\sdk\offsets.h(28,44): fatal  error C1003: error count exceeds 100; stopping compilation
+  Generating Code...
