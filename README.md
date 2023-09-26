@@ -7,8 +7,7 @@ If the cheat doesn't work is seems to be that offsets are changed, all what you 
 # SDK
 SDK folder is not done entirely by me, but I have made a lot of modification and improvments
 
-
-SS:
+# Cheat features & menu
 ![image](https://github.com/Irox-cpu/csgo-slowmouse/assets/61883651/3d8c7eb3-f135-43e8-be97-7c1043a56d62)
 
 Features:
